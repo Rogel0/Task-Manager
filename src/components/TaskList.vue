@@ -4,7 +4,7 @@
   <el-table style="width: 80%; padding-top: 40px">
     <el-table-column label="Task Name" />
     <el-table-column label="Description" />
-    <el-table-column label="End Date" />
+    <el-table-column label="Status" />
     <el-table-column label="Actions" />
     <el-table-column align="right">
       <template #header>
